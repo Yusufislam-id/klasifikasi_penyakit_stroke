@@ -1,4 +1,4 @@
-##$Tujuan dari analisis ini adalah untuk membandingkan algoritma machine learning(klasifikasi) terbaik untuk mengklasifikasikan penyakit stroke
+Tujuan dari analisis ini adalah untuk membandingkan algoritma machine learning(klasifikasi) terbaik untuk mengklasifikasikan penyakit stroke
 Data terdiri dari 12 kolom :
 - id
 - gender 
@@ -12,6 +12,7 @@ Data terdiri dari 12 kolom :
 - bmi
 - smoking_status
 - stroke
-###Algoritma yang digunakan :
+
+Algoritma yang digunakan :
 - k-NN
 - Naive Bayes
